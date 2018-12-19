@@ -1,0 +1,2 @@
+https://medium.com/@kayodeniyi/simplest-react-app-setup-a74277b99e43
+https://stackoverflow.com/questions/30929679/react-fetch-data-in-server-before-render
